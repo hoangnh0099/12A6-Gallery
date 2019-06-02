@@ -10,7 +10,7 @@ function Header() {
         <div className="header-text">
           <p>Album Kỷ Yếu 12A6</p>
           <p>THPT Hoàng Văn Thụ</p>
-          <p>2014-2017</p>
+          <p>2014 - 2017</p>
         </div>
       </div>
     </div>

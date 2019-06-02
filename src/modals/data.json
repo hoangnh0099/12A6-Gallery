@@ -26,27 +26,33 @@
     },
     {
       "id": 7,
-      "source": ""
+      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_%20(5).jpg"
     },
     {
       "id": 8,
-      "source": ""
+      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_%20(8).jpg"
     },
     {
       "id": 9,
-      "source": ""
+      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_%20(13).jpg"
     },
     {
       "id": 10,
-      "source": ""
+      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_%20(17).jpg"
     },
     {
       "id": 11,
-      "source": ""
+      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_%20(28).jpg"
     },
     {
       "id": 12,
-      "source": ""
+      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_%20(43).jpg"
+    }
+  ],
+  "music": [
+    {
+      "id": 1,
+      "source": "http://localhost:8888/12A6-Gallery/music/TamBietNhe.mp3"
     }
   ]
 }

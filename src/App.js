@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import song from './modals/TamBietNhe.mp3';
 import data from './modals/data.json';
 
 // Component
@@ -15,7 +14,7 @@ class App extends Component {
       play: true,
       isOpen: false
     }
-    this.audio = new Audio(song);
+    this.audio = new Audio("http://localhost:8888/12A6-Gallery/music/TamBietNhe.mp3");
     this.audio.autoplay = true;
     this.audio.loop = true;
   }
