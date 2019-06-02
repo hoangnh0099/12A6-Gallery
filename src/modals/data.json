@@ -2,57 +2,57 @@
   "image": [
     {
       "id": 1,
-      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_29.jpg"
+      "source": "http://kyyeu.byethost6.com/images/Ninja_29.jpg"
     },
     {
       "id": 2,
-      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_80.jpg"
+      "source": "http://kyyeu.byethost6.com/images/Ninja_29.jpg"
     },
     {
       "id": 3,
-      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_157.jpg"
+      "source": "http://kyyeu.byethost6.com/images/Ninja_23.jpg"
     },
     {
       "id": 4,
-      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_23.jpg"
+      "source": "http://kyyeu.byethost6.com/images/Ninja_1.jpg"
     },
     {
       "id": 5,
-      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_1.jpg"
+      "source": "http://kyyeu.byethost6.com/images/Ninja_(28).jpg"
     },
     {
       "id": 6,
-      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_9.jpg"
+      "source": "http://kyyeu.byethost6.com/images/Ninja_(44).jpg"
     },
     {
       "id": 7,
-      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_%20(5).jpg"
+      "source": "http://kyyeu.byethost6.com/images/Ninja_(79).jpg"
     },
     {
       "id": 8,
-      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_%20(8).jpg"
+      "source": "http://kyyeu.byethost6.com/images/Ninja_1.jpg"
     },
     {
       "id": 9,
-      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_%20(13).jpg"
+      "source": "http://kyyeu.byethost6.com/images/Ninja_(45).jpg"
     },
     {
       "id": 10,
-      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_%20(17).jpg"
+      "source": "http://kyyeu.byethost6.com/images/Ninja_(49).jpg"
     },
     {
       "id": 11,
-      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_%20(28).jpg"
+      "source": "http://kyyeu.byethost6.com/images/Ninja_(44).jpg"
     },
     {
       "id": 12,
-      "source": "http://localhost:8888/12A6-Gallery/images/Ninja_%20(43).jpg"
+      "source": "http://kyyeu.byethost6.com/images/Ninja_(43).jpg"
     }
   ],
   "music": [
     {
       "id": 1,
-      "source": "http://localhost:8888/12A6-Gallery/music/TamBietNhe.mp3"
+      "source": "http://kyyeu.byethost6.com/music/TamBietNhe.mp3"
     }
   ]
 }

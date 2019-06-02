@@ -14,8 +14,8 @@ class App extends Component {
       play: true,
       isOpen: false
     }
-    this.audio = new Audio("http://localhost:8888/12A6-Gallery/music/TamBietNhe.mp3");
-    this.audio.autoplay = true;
+    this.audio = new Audio("http://kyyeu.byethost6.com/music/TamBietNhe.mp3");
+    // this.audio.autoplay = true;
     this.audio.loop = true;
   }
 
