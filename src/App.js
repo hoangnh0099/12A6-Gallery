@@ -33,6 +33,8 @@ class App extends Component {
 
   render() {
 
+    console.log(data);
+
     let imageRender = (
       data.image.map((image, index) => {
         return (
