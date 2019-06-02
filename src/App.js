@@ -16,7 +16,7 @@ class App extends Component {
       isOpen: false
     }
     this.audio = new Audio(song);
-    // this.audio.autoplay = true;
+    this.audio.autoplay = true;
     this.audio.loop = true;
   }
 
